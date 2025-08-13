@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  Passionate about creating clean, scalable, and high-performing web solutions.  
-  Experienced in building websites, custom plugins, and integrations with modern tech stacks.
+  From concept to launch! I craft clean, scalable, and high-performing web solutions — blending modern tools, custom plugins, and creative thinking to turn ideas into digital experiences that stand out.
 </p>
 
 ---
@@ -33,14 +32,37 @@
 
 ---
 
-## Featured Projects
+<h2 align="center" style="color:#4CAF50;">🌟 Featured Projects</h2>
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Restaurant Website - Khan Baba** | Custom Odoo-based restaurant site with predefined & custom menu builder. | Odoo, JS, HTML, CSS | [View Repo](#) |
-| **Arts Couriers Website** | WordPress custom theme with ACF & animated SVG ticker. | WordPress, ACF, GSAP | [View Repo](#) |
-| **The Century 7** | Education platform with new LETS learning model. | WordPress, Custom PHP | [View Repo](#) |
-| **Orbitium Solutions - Medical Billing** | Corporate website with service-specific landing pages. | WordPress, Elementor | [View Repo](#) |
+<p align="center">A showcase of my recent work across various platforms & technologies</p>
+
+<table align="center">
+  <tr>
+    <th style="text-align:center; background-color:#4CAF50; color:white; padding:10px;">Project</th>
+    <th style="text-align:center; background-color:#4CAF50; color:white; padding:10px;">Tech Stack</th>
+    <th style="text-align:center; background-color:#4CAF50; color:white; padding:10px;">Link</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Restaurant Website - Khan Baba</b></td>
+    <td align="center">Odoo, JS, HTML, CSS</td>
+    <td align="center"><a href="#" style="color:#4CAF50; font-weight:bold;">View Repo</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Arts Couriers Website</b></td>
+    <td align="center">WordPress, ACF, GSAP</td>
+    <td align="center"><a href="#" style="color:#4CAF50; font-weight:bold;">View Repo</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>The Century 7</b></td>
+    <td align="center">WordPress, Custom PHP</td>
+    <td align="center"><a href="#" style="color:#4CAF50; font-weight:bold;">View Repo</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Orbitium Solutions - Medical Billing</b></td>
+    <td align="center">WordPress, Elementor</td>
+    <td align="center"><a href="#" style="color:#4CAF50; font-weight:bold;">View Repo</a></td>
+  </tr>
+</table>
 
 ---
 
