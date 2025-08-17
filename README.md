@@ -84,17 +84,18 @@ From Figma design to a real-time, animated website, I make the transition seamle
 
 <div align="center">
 
-| Project | Language/Tech Stack | Summary |
-|---------|----------------------|---------|
-| 🔗 [Brabalans](https://brabalans.se/) | WooCommerce | Business website for accounting & financial services. |
-| 🔗 [Synavos](https://synavos.com/) | PHP, React, JS, Boostrap| Official company website showcasing IT services. |
-| 🔗 [Spreado](https://spreado.co/) | PHP , jQuery, JS | Digital marketing platform with modern UI/UX. |
-| 🔗 [Brillant UAE](https://brillantuae.com/) | WooCommerce | E-commerce website for luxury products in UAE. |
-| 🔗 [Farid Bookstall](https://faridbookstall.com/) | PHP, React, JS, WooCommerce | Online bookstore with dynamic catalog & cart. |
-| 🔗 [Cloudout Global](https://cloudoutglobal.com/) | React, Boostrap, ACF | Cloud solutions company website with custom features. |
-| 🔗 [Inofy](https://www.inofy.se/) | Custom Plugins | Corporate site with custom WordPress plugin development. |
+| Project | Summary |
+|---------|---------|
+| 🔗 [Brabalans](https://brabalans.se/) | Business website for accounting & financial services. |
+| 🔗 [Synavos](https://synavos.com/) | Official company website showcasing IT services. |
+| 🔗 [Spreado](https://spreado.co/) | Digital marketing platform with modern UI/UX. |
+| 🔗 [Brillant UAE](https://brillantuae.com/) | E-commerce website for luxury products in UAE. |
+| 🔗 [Farid Bookstall](https://faridbookstall.com/) | Online bookstore with dynamic catalog & cart. |
+| 🔗 [Cloudout Global](https://cloudoutglobal.com/) | Cloud solutions company website with custom features. |
+| 🔗 [Inofy](https://www.inofy.se/) | Corporate site with custom WordPress plugin development. |
 
 </div>
+
 
 <h2 align="center"></h2>
 <div align="center">
