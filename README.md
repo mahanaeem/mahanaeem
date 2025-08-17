@@ -5,9 +5,7 @@
 </h1>
 
 <p style="font-family: 'Lexend', sans-serif;" align="center" >
-I’m a Software Developer who loves turning ideas into real, interactive experiences.  
-Building user-friendly websites and custom tools with clean code and modern tech is what excites me most.  
-Currently diving deeper into the MERN Stack, while also working with CMS platforms like Strapi, Webflow, and WP.  
+Diving deeper into the MERN Stack, while also working with CMS platforms like Strapi, Webflow, and WP.  
 I specialize in creating custom themes, plugins, and web apps powered by modern tools like GSAP for smooth animations.  
 From Figma design to a real-time, animated website, I make the transition seamless with attention to detail and advanced interactions.
 </p>
