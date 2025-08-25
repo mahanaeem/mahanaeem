@@ -87,7 +87,7 @@ From Figma design to a real-time, animated website, I make the transition seamle
 
 
 <h2 align="center">💰 You can help me by Donating</h2>
-  <p align="center"><a href="https://www.buymeacoffee.com/mahanaem"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahanaem" /></a></p><br><br>
+  <p align="center"><a href="https://buymeacoffee.com/mahanaeem"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahanaem" /></a></p><br><br>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
