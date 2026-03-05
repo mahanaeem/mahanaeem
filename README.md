@@ -77,16 +77,6 @@ Committed to clean code, scalable systems, and delivering measurable business im
 </div>
 
 
-<h2 align="center"></h2>
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=mahanaeem&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=mahanaeem&theme=shades-of-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahanaeem&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-</div>
-
-
 <h2 align="center">💰 You can help me by Donating</h2>
   <p align="center"><a href="https://buymeacoffee.com/mahanaeem"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahanaem" /></a></p><br><br>
 
