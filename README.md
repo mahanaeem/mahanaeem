@@ -5,9 +5,10 @@
 </h1>
 
 <p style="font-family: 'Lexend', sans-serif;" align="center" >
-Diving deeper into the MERN Stack, while also working with CMS platforms like Strapi, Webflow, and WP.  
-I specialize in creating custom themes, plugins, and web apps powered by modern tools like GSAP for smooth animations.  
-From Figma design to a real-time, animated website, I make the transition seamless with attention to detail and advanced interactions.
+Senior Software Engineer | MERN Stack (MongoDB, Express, React, Node.js) & Next.js
+4+ years of experience building scalable, product-driven web applications. Specialized in React/Next.js ecosystems, backend API development (Node.js, SQL, MongoDB), and performance-focused frontend architecture. Skilled in developing AI-powered plugins, custom Figma integrations, and advanced web animations.
+
+Committed to clean code, scalable systems, and delivering measurable business impact. Also experienced with CMS platforms and modern tools like WordPress, Webflow, and Strapi.
 </p>
 
 <h2 align="center">Let's Connect</h2>
