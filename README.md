@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maha</h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=500&size=36&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+%7C+React+%7C+Next+JS;Custom+Themes+%26+Plugins;Clean+%26+Scalable+Web+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=500&size=36&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;MERN+%7C+React.js+%7C+Next.js;Custom+Themes+%26+Plugins;Clean+%26+Scalable+Web+Solutions" alt="Typing SVG" />
 </h1>
 
 <p style="font-family: 'Lexend', sans-serif;" align="center" >
